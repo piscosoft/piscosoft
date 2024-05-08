@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piscosoft
+- 👋 Hi, I’m Dhananjoy Sharma 
 - 👀 I’m interested in Artificial intelligence and Quantum Computing with advanced algorithms and data structures techniques.
 - 🌱 I’m currently learning  Artificial general intelligence 
 - 💞️ I’m looking to collaborate with Largest Technology corporation .
